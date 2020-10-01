@@ -138,7 +138,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text('Show Chart'),
+                Text('Chart is here'),
                 Switch(
                   value: true,
                 ),
